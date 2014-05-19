@@ -1,0 +1,46 @@
+    <html data-adblockkey="MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBANHZLSNGAhe0lWbSycFlY7t3c4tFHP+Epw8naGgm3CR8CftAihnB7Jkt+vFmvIf3BV/p3RpOrZ/XbZsX9uh0m9UCAwEAAQ==_uRSFIN+c9o6rMPKrP6AjiITjm+YmxFwoy1Ntz0HLPEsdSPkLOaLKxzu9ijmPZn2NiUbblFg2VIVCYzRiOKNBSA=="> 
+
+<head>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <title>ZhhYoo.com: The Leading Zhh Yoo Site on the Net</title>
+            <script type="text/javascript">;
+        if(self != top) top.location.href = 'http://'+location.hostname+'/?redir=frame&uid=www531b181344c134.46789697';
+        </script>
+        <script type="text/javascript" src="http://return.uk.domainnamesales.com/return_js.php?d=zhhyoo.com&s=1394284563"></script>
+
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
+    <script type="text/javascript">
+        function GetParam(name) {
+            var match = new RegExp(name +  
+                "=*([^&]+)*", "i").exec(location.search);   
+            if (match == null)             
+                match = new RegExp(name + "=(.+)", "i").exec(location.search);  
+            if (match == null) return null;             
+                match = match + "";           
+            //**convert match to a string       
+            result = match.split(",");          
+            return decodeURIComponent(result[1]);     
+        }  
+
+        function logStatus(type) {   
+            $.ajax({         
+                cache: false, 
+                global: false,  
+                async: true,    
+                type: "POST",  
+                url: '/logpstatus.php',
+                data: {uid: GetParam('uid'), type: type}  
+            });                
+        }        
+    </script>
+
+    </head>
+    <frameset cols="1,*,1" border=0>
+        <frame name="top" src="tg.php?uid=www531b181344c134.46789697" scrolling=no frameborder=0 noresize framespacing=0 marginwidth=0 marginheight=0>
+        <frame src="search_caf.php?uid=www531b181344c134.46789697&src=linen&abp=1" scrolling="auto" framespacing=0 marginwidth=0 marginheight=0 noresize>
+        <frame src="page.php?www531b181344c134.46789697"></frame>
+    </frameset>
+    <noframes>
+        zhhyoo.com has been connecting our visitors with providers of BC Mortgage, BC Mortgage Broker, BC Property and many other related services for nearly 10 years. Join thousands of satisfied visitors who found BC Real Estate, BC Real Estate Agents, British Columbia Condos, British Columbia Homes, and British Columbia Homes For Sale.<br/>    </noframes>
+</html>
+
